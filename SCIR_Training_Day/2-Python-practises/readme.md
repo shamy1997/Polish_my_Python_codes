@@ -6,3 +6,6 @@
 # 2-n-gram-count
 第一次使用`class`，感觉写得很丑，并且将文本数据过滤问题简单化考虑，之后再修改完善吧
 传入一个参数：以空格分过词的文本路径。
+
+# 3 max-matching-word-segmentation
+
