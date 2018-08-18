@@ -28,7 +28,7 @@ def max_match_segment( line, dic ):
             elif len(s1) <= 1 and len(line) <= maxlen:
                 result.append(s1)
                 line = line[1:]
-                s1 = line[1:]
+                s1 = line
                 break
 
         else:
